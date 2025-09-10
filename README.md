@@ -1,15 +1,14 @@
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
+<h1 align="center">Olá, seja bem-vindo(a) ao meu perfil !</h1>
 
 <p align="center">
   <b>Meu nome é Myguel Henryque</b> <br>
-  🎓 Estudante de <b>Sistemas de Informação</b> na UTFPR <br>
-  🚀 Apaixonado por <b>tecnologia, desenvolvimento web e programação</b> <br>
-  💡 Sempre em busca de novos desafios e aprendizados
+  🎓 Sou Estudante de <b>Sistemas de Informação</b> na UTFPR - Universidade Técnologica Federal do Paraná<br>
+  🚀 Gosto muito de <b>tecnologia, desenvolvimento web e programação backend</b> <br>
 </p>
 
 ---
 
-## 🌎 Conecte-se comigo
+## 📱 Minhas redes Sociais
 <div align="center">
   <a href="https://www.instagram.com/ymyguel_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo"/>
@@ -30,9 +29,9 @@
 
 ---
 
-## 🖥️ Tecnologias e Ferramentas
+## 🖥️ Minhas principais tecnologias e ferramentas
 
-### 🔹 Linguagens
+### 🔹 Linguagens de desenvolvimento
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo"/>
@@ -40,7 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="Javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" heitgh="40" alt="Kotlin logo"/>
 </div>
 
 ### 🔹 IDEs
@@ -48,12 +49,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo"/>
 </div>
 
 ### 🔹 Sistemas Operacionais
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 </div>
 
 ### 🔹 Outras ferramentas
@@ -61,11 +63,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do meu GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myguel-H&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&locale=pt-br" height="160" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Myguel-H&layout=compact&langs_count=6&theme=dracula&hide_border=false&locale=pt-br" height="160" alt="languages graph"/>
