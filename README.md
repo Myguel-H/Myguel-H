@@ -19,7 +19,7 @@
   <a href="http://lattes.cnpq.br/3171242305410582" target="_blank">
     <img src="https://img.shields.io/badge/Lattes-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white" height="35" alt="Currículo Lattes"/>
   </a>
-  <a href="myguelhenry05@gmail.com" target="_blank">
+  <a href="mailto:myguelhenry05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo"/>
   </a>
   <a href="https://discord.com/users/962212187370307584" target="_blank">
